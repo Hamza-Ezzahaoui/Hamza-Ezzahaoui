@@ -28,22 +28,30 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst or Cybersecurity 
 | **Vulnerability Management & Hardening**      | Performed scans and remediation using OpenVAS and Nessus                                        | 
 
 🧠 Tools & Technologies
+
 🕸️ Network & Threat Analysis
+
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> <img src="https://img.shields.io/badge/-Tcpdump-333333?&style=for-the-badge" /> </div>
+
 💻 Endpoint & Forensics
 <div> <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Volatility-005571?&style=for-the-badge&logoColor=white" /> </div>
+
 🧩 SIEM / SOAR / Case Management
 <div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-TheHive-222222?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6600?&style=for-the-badge&logoColor=white" /> </div>
+
 🐍 Scripting & Cloud
 <div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /> </div>
+
 🧾 Certifications
 <div> <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Cybersecurity_Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe_Top1%25-5A0FC8?&style=for-the-badge&logo=tryhackme&logoColor=white" /> </div>
+
 🚀 Highlight Projects
 
 🧩 SOC Automation Lab Integrated Shuffle SOAR, TheHive, and Sentinel for automated case management.
 🕵️ Threat Hunting with Elastic SIEM Built dashboards to detect Brute Force & C2 activity.
 🔍 Forensics Investigation Lab Created detection rules for MITRE ATT&CK techniques.
 ☁️ Azure Security Monitoring Deployed Microsoft Sentinel on Azure with custom alerts.
+
 💼 Internship Experience
 🛡️ Cybersecurity Intern – DSI MENPS
 
