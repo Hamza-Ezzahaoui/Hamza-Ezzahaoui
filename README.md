@@ -1,6 +1,6 @@
 👋 Hello, I'm Hamza Ezzahaoui
 
-<a href="https://linkedin.com/in/hamza-ezzahaoui"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hamza-ezzahaoui-5800b6318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hamza.ezzahaoui@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 🧑‍💻 About Me
